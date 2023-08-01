@@ -1,0 +1,68 @@
+.box1{
+    margin-top: 100px;
+    margin-left: 2%;
+    width: 45%;
+    height: 45%;
+
+}
+.axi {
+    margin-left: 50%;
+    margin-top: -38%;
+    font-size: 35px;
+    color: blue;
+    font-family:  math;
+
+}
+.axi1 {
+    margin-left: 50%;
+    margin-top: -20px;
+    font-size: 20px;
+    font-family: cursive;
+} 
+.axi2 {
+    margin-left: 50%;
+    font-size: 25px;
+    margin-right: 70px;
+}
+.axi3 {
+    display: inline-block;
+    margin-left: 50%;
+    margin-top: 5px;
+    font-size: 25px;
+    color: black;
+}
+.axi4 {
+    display: inline-block;
+    /* margin-left: 60%; */
+    margin-top: -40%;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    border-bottom:2px solid blue;
+
+}
+.axi5 {
+    margin-top: 10px;
+    margin-left: 50%;
+    border: none;
+    padding: 5px 40px;
+    font-size: 10px;
+    color: aliceblue;
+    background-color:#f1360e;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

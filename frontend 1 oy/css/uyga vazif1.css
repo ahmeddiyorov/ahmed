@@ -1,0 +1,114 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    display: flex;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header div {
+    font-size: 2rem;
+}
+nav {
+    width: 100%;
+    height: 120vh;
+    background-image: url("https://images01.nicepage.com/a1389d7bc73adea1e1c1fb7e/2f6015003a5d56c487a4a3b3/pexels-photo-4101143.jpeg");
+}
+nav div {
+    width: 60%;
+    height: 100%;
+    margin: 0 20%;
+}
+nav div h1 {
+    font-size: 4rem;
+    width: 65%;
+    padding-top: 180px;
+    color: #7bec39;
+}
+nav div p {
+    padding: 30px 0 ;
+    color: #11e245;
+    font-size: 1.5rem;
+}
+nav div form {
+    display: flex;
+}
+nav div form input {
+    border: none;
+    padding: 15px 40px;
+}
+.section1 {
+    width: auto;
+    height: 75vh;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.ffff {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.dddd {
+    text-align: center;
+    margin: 100px 0;
+    width: 15%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.dddd img {
+  margin-top: 50px;
+  width: 30%;
+  height: 25%;
+  
+}
+.iiii {
+    background-color: red;
+}
+.dddd h3 {
+    padding: 20px 0;
+
+}
+.dddd a{
+    text-decoration:
+     none;
+    color: #333;
+}
+.dddd a:hover{
+    text-decoration: none;
+    color: rgb(255, 217, 0);
+}
+.section2 {
+    background-color: #f2f2f2;
+    width: auto;
+    height: 60vh;
+    display: flex;
+    justify-content: space-around
+}
+.section2-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 35%;
+}
+.section2-left p {
+    color: orange;
+    font-size: 1.5rem;
+}
+.section2-left h1 {
+    font-size: bolder;
+}
+.section2-right {
+    padding-top: 50px;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

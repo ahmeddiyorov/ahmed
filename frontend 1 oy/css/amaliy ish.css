@@ -1,0 +1,55 @@
+.foto1 {
+    margin-top: 2%;
+    width: 20%;
+    height: 150%;
+    margin-left: 15%;
+
+}
+.box1 {
+    background-color: blue;
+    margin-top: -124px;
+    margin-left: 35%;
+    font-size: 10px;
+    width: 105px;
+    height: 122px;
+}
+/* .box-1 {
+    margin: 5px;
+    margin-left: 42%;
+    font-size: 7px;
+} */
+.foto2 {
+    display: flex ;
+    margin-top: -23%;
+    width: 20%;
+    height: 150%;
+    margin-left: 55%;
+}
+.box2{
+    
+    margin-left: 18%;
+    margin-top: 6%;
+    font-size: 10px;
+   
+}
+.box-2 {
+    margin-top: 2%;
+    margin-left:20% ;
+    font-size: 7px;
+}
+.foto3 {
+    width: 20%;
+    height: 150%;
+    margin-left: 35%;
+    margin-top: -12%;
+}
+.box3 {
+    margin-top: -17%;
+    margin-left: 63%;
+    font-size: 10px;
+}
+.box-3 {
+    margin-left:64% ;
+    margin: 5;
+    font-size: 7px;
+}

@@ -1,0 +1,25 @@
+.maint {
+    width: 99vw;
+    height: 99vw;
+    display: flax;
+    justify-content: certer;
+    align-items: center;
+
+}
+
+
+.btn {
+
+   animation-name: anim;
+   animation-duration: 2s;
+   animation-iteration-count: liner;
+   font-size: 20px;
+   padding: 5;
+   background-color: blueviolet;
+   border: none;
+   border-radius: 10px;
+   padding: 15px 30px;
+}
+@keyframes anim{
+    0%
+   

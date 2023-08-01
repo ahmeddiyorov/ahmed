@@ -1,0 +1,47 @@
+/*.box-1{
+	background-color: red ;
+	top :10%;
+	width: 15%;
+	height: 90%;
+	position: fixed;
+	bottom: 1%;
+	margin-bottom:1% ;
+}
+.box-2{
+	min-height: 200px;
+	background-color:yellow;
+}*/
+./*nav{
+	background-color: blue;
+	width: 50%;
+	height: 400px;
+	position: relative;
+	left:20%;
+}
+.urls{
+	background-color: red;
+	width: 50%;
+	height: 50%;
+	position: absolute;
+	left:20%;
+	top: 50px;
+}*/
+.sticky{
+	position: sticky;
+	height: 60px;
+	width: 100%;
+	background-color:blue ;
+	top: 40px;
+}
+.box{
+	height: 1000px;
+}
+.box2{
+	background-color: yellow;
+	margin-top: 100px;
+
+}
+h1{
+ 	height: 200px;
+
+}

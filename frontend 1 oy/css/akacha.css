@@ -1,0 +1,110 @@
+.yoo{
+    margin-top: 100px; 
+    text-align: center;
+}
+
+
+
+.negir {
+    
+    width: 40%;
+    height: 40%;
+    margin-top: 5%;
+    margin-left: 48%;
+    animation-timing-function: ease;
+    animation-duration: 2.5s;
+    animation-name: anim5;
+}
+.yozuv1{
+    margin-top: -30%;
+    margin-left: 9%;
+    font-size: 35px;   
+    opacity: 0.8; 
+    animation-timing-function: ease;
+    animation-duration: 1.5s;
+    animation-name: anim2;
+}
+.yozuv2{
+    color: blueviolet;
+    margin-left: 7%;
+    font-size: 50px;
+    margin-top: -2%;
+    animation-timing-function: ease;
+    animation-duration: 1s;
+    animation-name: anim1;
+
+}
+#btn-1 {
+    margin-left: 10rem;
+    margin-top: 2%;
+    margin-left: 10%;
+    animation-timing-function: ease;
+    animation-duration: 1s;
+    animation-name: anim2;
+
+  
+}
+#btn-2 {
+    margin-left: 4rem;
+    margin-top: 2%;
+    padding: 15 15;
+    animation-timing-function: ease;
+    animation-duration: 2.5s;
+    animation-name: anim3;
+}
+.insta {
+    margin-top: 8%;
+    margin-left: 17%;
+    font-size: 50px;
+}
+.face{
+    margin-left:2%;
+    font-size: 50px;
+}
+@keyframes anim1 {
+    0% {
+        opacity: 0;
+        transform: translatey(-400px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatey(0);
+    }
+}
+
+@keyframes anim2 {
+    0% {
+        opacity: 0;
+        transform: translatey(200px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatey(0);
+    }
+}
+
+@keyframes anim3 {
+    0% {
+        opacity: 0;
+        transform: translatex(200px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatex(0);
+    }
+    
+}
+@keyframes anim5 {
+    0% {
+        opacity: 0;
+        transform: translatex(250px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatex(0);
+    }
+}

@@ -1,0 +1,48 @@
+/* .parent_box{
+    font-size: 30px;
+}
+
+.child_box{
+    font-size:2em;
+}
+.box{
+    height: 600px;
+    width: 1000px;
+    border: 1px solid red;
+    border-radius: 0.5em;
+    padding: 5em;
+} */
+/* .container {
+    font-size: 20px;
+    padding: 0.5em;
+    border: 1px solid blue;
+}
+.container h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.2em;
+}
+.container h6 {
+    font-size: 0.9em;
+    margin-top: 0.2em;
+}
+.container p {
+    font-size: 0.8em;
+} */
+.main {
+    display: flex;
+}
+.box1{
+    margin-top: 20%;
+    margin-left: 40%;
+    background-color: #D50BD5;
+    padding: .5rem 1rem;
+    border:none;
+    cursor: pointer;
+    font-size: 20px;
+   
+}
+.box{
+    border-top-left-redius:5px;
+    border-bottom-left-radius: 5px;
+    background-color: blueviolet;
+}

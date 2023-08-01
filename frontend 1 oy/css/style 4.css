@@ -1,0 +1,15 @@
+.text{
+	color: blue;
+}
+.text:hover {
+	color: green;
+	text-decoration: decor;
+}
+.text:active{
+	color: red;
+	text-decoration: none;
+}
+.text{
+	color: black;
+	text-decoration-line;
+}

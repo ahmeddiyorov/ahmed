@@ -1,0 +1,20 @@
+/*class */
+.heading {
+
+	color : red;
+}
+/* id */
+#info {
+
+	color: pink;
+
+}
+/* atribute */
+[rang] {
+	color: orange;
+
+}
+/* universal */
+*{
+	font-size: 10px;
+}

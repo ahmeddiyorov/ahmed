@@ -1,0 +1,220 @@
+.axi1{
+     text-align: center; 
+     font-size: 40px;
+     font-weight: bolder;
+     animation-name: anim 1;
+     animation-duration: 1s;
+
+     
+   
+}
+
+.chiziq {
+    margin-left: 48% ;
+    width: 100px;
+    height: 100px;
+    margin-top: 8px;
+    border: 2px solid #56b8e6;
+    height: 1px;
+    border-bottom: 50px;
+    width: 50px;
+    background-color: #56b8e6;
+}
+.rasm1 {
+    margin-top: 5%;
+    margin-left: 9%;
+    overflow: hidden;
+    animation-timing-function: ease;
+    animation-duration: 1.5s;
+    animation-name: anim2;
+}
+.rasm1 img:hover {
+    transform: scale(1.2);
+}
+
+.yozuv1{
+    margin-top: 1%;
+    margin-left: 10%;
+   color:blue;
+}
+.yozuv2{
+    margin-top: -15px;
+    margin-left: 11%;
+    color: black;
+    font-size: 15px;
+
+}
+.yozuv3{
+  
+    margin-top: -2%;
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif ;
+    line-height: 1;
+
+}
+.aaa{
+    margin-top: 10px;
+    font-size: 20px;
+    text-emphasis: none;
+
+    
+}
+.yozuv4 {
+    margin-top: -1%;
+    margin-left: 10%;
+
+    font-weight: 400;
+    animation-timing-function: ease;
+    animation-duration: 1s;
+    animation-name: anim1;
+
+}
+
+
+
+.rasm2{
+    margin-top: -30.5%;
+    margin-left: 32%;
+    overflow: hidden;
+    animation-timing-function: ease;
+    animation-duration: 1s;
+    animation-name: anim2;
+
+}
+.rasm2 img:hover {
+    transform: scale(1.2);
+}
+.www{
+    margin-top: 1%;
+    margin-left: 32%;
+    color:blue;
+}
+.eee {
+    margin-top: -18px;
+    margin-left: 42%;
+    color: black;
+    font-size: 15px;}
+.rrr{
+  
+    margin-top: 0.5%;
+    margin-left: 32%;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif ;
+    line-height: 1;
+
+}
+.ttt{
+    margin-top: 1%;
+    margin-left: 32%;
+     font-weight: 500;
+     animation-timing-function: ease;
+     animation-duration: 2.5s;
+     animation-name: anim3;
+}
+.rasm3{
+    margin-top: -30.5%;
+    margin-left: 55%;
+    overflow: hidden;
+    animation-timing-function: ease;
+    animation-duration: 2.5s;
+    animation-name: anim5;
+
+
+}
+.rasm3 img:hover {
+    transform: scale(1.2);
+}
+.yyy{
+    margin-top: 1%;
+    margin-left: 4%;
+    color:blue;
+}
+.uuu{
+    margin-top: -18px;
+    margin-left: 20%;
+    color: black;
+    font-size: 15px;}
+.ooo{
+    margin-top: 1%;
+  
+     font-weight: 500;
+     margin-left: 3%;
+     font-size: 20px;
+     font-weight: bolder;
+     font-family: sans-serif ;
+}
+.iii{
+    margin-top: 1%;
+    margin-left: 3%;
+     font-weight: 500;
+     animation-timing-function: ease;
+    animation-duration: 2.5s;
+    animation-name: anim4;
+}
+
+@keyframes anim1 {
+    0% {
+        opacity: 0;
+        transform: translatey(-400px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatey(0);
+    }
+}
+
+@keyframes anim2 {
+    0% {
+        opacity: 0;
+        transform: translatey(200px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatey(0);
+    }
+}
+
+@keyframes anim3 {
+    0% {
+        opacity: 0;
+        transform: translatex(200px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatex(0);
+    }
+}
+
+@keyframes anim4 {
+    0% {
+        opacity: 0;
+        transform: translatex(300px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatex(0);
+    }
+}
+
+@keyframes anim5 {
+    0% {
+        opacity: 0;
+        transform: translatex(250px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translatex(0);
+    }
+}
+
+
+
+

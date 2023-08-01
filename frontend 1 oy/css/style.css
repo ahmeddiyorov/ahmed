@@ -1,0 +1,15 @@
+.box{
+	color: yellow;
+}
+.dark{
+	color: red;
+}
+.italic{
+	font-style: italic;
+}
+.font-5{
+	font-size: 50px;
+}
+.text-center{
+	text-align: center;
+}
